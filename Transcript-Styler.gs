@@ -30,12 +30,7 @@ function onOpen() {
 	var ui = DocumentApp.getUi();
 	// Or DocumentApp or FormApp.
 	ui.createMenu('Transcript Styler')
-		.addItem('Style List Items', 'menuItem1')
+		.addItem('Style List Items', 'transcriptStyler')
 		.addToUi();
-}
-
-// Initialize menu item that runs our script.
-function menuItem1() {
-	transcriptStyler();
 }
 
