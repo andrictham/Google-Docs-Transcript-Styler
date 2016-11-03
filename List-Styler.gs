@@ -29,7 +29,7 @@ function listStyler() {
 function onOpen() {
 	var ui = DocumentApp.getUi();
 	// Or DocumentApp or FormApp.
-	ui.createMenu('List Item to Subtitle')
+	ui.createMenu('Transcript Styler')
 		.addItem('Style List Items', 'menuItem1')
 		.addToUi();
 }
