@@ -10,8 +10,11 @@ When you transcribe an interview, you want to write the interviewee’s response
 Also, to save you time, you don’t want to have to preface your quotes with who said it in every line like so:
 
 > INTERVIEWER: Why do you visit museums?
+
 > INTERVIEWEE: I like how the Art inspires me and opens up questions about the future of humanity.
+
 > INTERVIEWER: Tell me more about that. What sparked your interest in Art?
+
 > INTERVIEWEE: Yeah, so, my Dad was an artist, and when I was a kid, every weekend we would...
 
 You can see how this gets tedious very quickly when your transcript hits over 20 pages.
