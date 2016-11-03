@@ -41,7 +41,7 @@ Enter an automated list styler. Using this script, you can use a Paragraph Style
 ## How to use
 This script is written to be used within specific Google documents.
 
-To use it, simple open Tools > Script editor from within your document, and paste the code into the text editor that appears. 
+To use it, simple open Tools > Script editor from within your document, and paste the code from `Transcript-Styler.gs` into the text editor that appears. 
 
 Then, run the onOpen function to initialize the script within our UI. This will show a custom menu in our Google Docs editor.
 
