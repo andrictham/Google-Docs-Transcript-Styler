@@ -16,6 +16,8 @@ function styleListItemsAsSubtitle() {
 	var listItems = body.getListItems();
 	for (var i = 0; i < listItems.length; i++) {
 		var listItem = listItems[i];
+		// Here, we can choose the desired paragraph style to be applied to all of our list items.
+		// https://developers.google.com/apps-script/reference/document/paragraph-heading
 		listItem.setHeading(DocumentApp.ParagraphHeading.SUBTITLE);
 	}
 }
