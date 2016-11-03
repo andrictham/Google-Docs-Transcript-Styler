@@ -2,7 +2,7 @@
 // This is the main function that iterates through our entire document and applies our desired style to all list items.
 //
 
-function styleListItemsAsSubtitle() {
+function listStyler() {
 	
 	// // We can reference the document by its ID, like so:
 	// var targetDocId = "1_XMKsTd_jHR7x7Gdpm_GJiDdBxG1PPVsydzw-b_Z394";  
@@ -30,12 +30,12 @@ function onOpen() {
 	var ui = DocumentApp.getUi();
 	// Or DocumentApp or FormApp.
 	ui.createMenu('List Item to Subtitle')
-		.addItem('Style List Items as Subtitle', 'menuItem1')
+		.addItem('Style List Items', 'menuItem1')
 		.addToUi();
 }
 
 // Initialize menu item that runs our script.
 function menuItem1() {
-	styleListItemsAsSubtitle();
+	listStyler();
 }
 
