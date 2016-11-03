@@ -2,7 +2,7 @@
 // This is the main function that iterates through our entire document and applies our desired style to all list items.
 //
 
-function listStyler() {
+function transcriptStyler() {
 	
 	// // We can reference the document by its ID, like so:
 	// var targetDocId = "1_XMKsTd_jHR7x7Gdpm_GJiDdBxG1PPVsydzw-b_Z394";  
@@ -36,6 +36,6 @@ function onOpen() {
 
 // Initialize menu item that runs our script.
 function menuItem1() {
-	listStyler();
+	transcriptStyler();
 }
 
