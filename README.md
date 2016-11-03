@@ -20,11 +20,11 @@ However, you still want to document the questions or prompts from the interviewe
 
 This automatically creates a list item in Google Docs, and is an easy way to style text quickly when you are touch typing. It’s also easy to understand as shorthand for “the other person speaking in a conversation”.
 
-> > — Why do you visit museums?
+>   — Why do you visit museums?
 
 > I like how the Art inspires me and opens up questions about the future of humanity.
   
-> >  — Tell me more about that. What sparked your interest in Art?
+>   — Tell me more about that. What sparked your interest in Art?
 
 > Yeah, so, my Dad was an artist, and when I was a kid, every weekend we would...
 
