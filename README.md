@@ -1,4 +1,4 @@
-# Google-Docs-List-Styler
+# Transcript Styler for Google Docs
 
 ![](http://i.giphy.com/3o7TKVOP1yOae4DjZC.gif)
 
